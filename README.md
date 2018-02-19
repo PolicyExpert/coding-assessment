@@ -8,7 +8,7 @@ You are to deliver code that prices a supermarket shopping basket. Some items av
 - Two cans of Coke, for £1.
 
 
-Use the following example of a receipt to know what data needs to be captured. There iss no requirement to actually format or print a receipt.
+Use the following example of a receipt to know what data needs to be captured. There is no requirement to actually format or print a receipt.
 
     Beans                0.50
     Beans                0.50
