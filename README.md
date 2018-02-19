@@ -29,7 +29,11 @@ Use the following example of a receipt to know what data needs to be captured. T
     Total to Pay         2.40
 
 
-**Keep it simple and to the point, no web, persistence, ORM layers or frameworks. Don't try and invent complex money classes, but don't fall or classic Java Money issues. What we want to see is what classes you create, their responsibility and relationships with other classes.**
+**Keep it simple and to the point, no web, persistence, ORM layers or frameworks.** 
+
+**Don't try and invent complex money classes, but don't fall for classic Java Money issues.**
+
+**What we want to see is what classes you create, their responsibility and relationships with other classes.**
 
 1. Think how to make pricing and discounts flexible
 2. Think about immutability
