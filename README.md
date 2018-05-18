@@ -54,6 +54,6 @@ You can use TDD, or BDD, or just good selective test coverage. It is very import
 
 We don’t put any time frame on the completion, but the sooner you complete, the sooner we can move forward in the hiring process, and, we hope, sooner we can make an offer to you. 
 
-If you have any questions at all please contact [dfarr@policyexpert.co.uk](mailTo:dfarr@policyexpert.co.uk) and [imoran@policyexpert.co.uk](mailTo:imoran@policyexpert.co.uk) and we will be happy to help.
+If you have any questions at all please contact [dfarr@policyexpert.co.uk](mailTo:dfarr@policyexpert.co.uk) and [jruckwood@policyexpert.co.uk](mailTo:jruckwood@policyexpert.co.uk) and we will be happy to help.
 
 Enjoy!
