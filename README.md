@@ -48,7 +48,7 @@ You can use TDD, or BDD, or just good selective test coverage. It is very import
 1. Create a github account if you don't already have one. (it’s free)
 2. Create a new project with README explaining what the project is doing, and how to run from the command line
 3. Use Maven as your build tool
-4. Add dominicfarr and iggymoran as a contributors
+4. Add dominicfarr and jon-ruckwood as a contributors
 5. Commit often, so we can see how you grow your code. 
 6. When you are finished create a pull request for us to start the code review process. 
 
