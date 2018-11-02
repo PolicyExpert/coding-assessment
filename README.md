@@ -45,15 +45,15 @@ Use the following example of a receipt to know what data needs to be captured. T
 You can use TDD, or BDD, or just good selective test coverage. It is very important to write `tests` that help us understand your design; what you think are the important business rules that are to be protected when changes come later.
 
 ## How to proceed
-1. Create a github account if you don't already have one. (it’s free)
-2. Create a new project with README explaining what the project is doing, and how to run from the command line
-3. Use Maven as your build tool
-4. Add dominicfarr and jon-ruckwood as a contributors
+1. Create a github account if you don't already have one. (it’s free!)
+2. Create a new project with README explaining what the project is doing, and how to run from the command line.
+3. Use Maven as your build tool.
+4. Add dominicfarr as a contributor.
 5. Commit often, so we can see how you grow your code. 
 6. When you are finished create a pull request for us to start the code review process. 
 
 We don’t put any time frame on the completion, but the sooner you complete, the sooner we can move forward in the hiring process, and, we hope, sooner we can make an offer to you. 
 
-If you have any questions at all please contact [dfarr@policyexpert.co.uk](mailTo:dfarr@policyexpert.co.uk) and [jruckwood@policyexpert.co.uk](mailTo:jruckwood@policyexpert.co.uk) and we will be happy to help.
+If you have any questions at all please contact [dfarr@policyexpert.co.uk](mailTo:dfarr@policyexpert.co.uk) and we will be happy to help.
 
 Enjoy!
